@@ -1,0 +1,23 @@
+this is sample text for git.
+
+
+A
+D
+D
+B
+B
+A
+A
+A
+B
+B
+B
+
+C
+C
+C
+my namE
+
+
+C
+
