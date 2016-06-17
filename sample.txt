@@ -1,5 +1,5 @@
 this is sample text for git.
-
+add to indext 
 
 A
 D
